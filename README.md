@@ -1,4 +1,4 @@
-# whale-recognition
+: whale-recognition
 
 ## Introduction
 This is a simple demo for [Whale Recognition](https://www.kaggle.com/c/whale-categorization-playground) in Kaggle.
